@@ -34,4 +34,17 @@ Day 3 – Execution
 - All execution documents added to GitHub
 
 
+Day 4 – Monitoring & Control
+
+- Created SOP for manual QA checks on annotated batches
+- Added QA report template to document quality results
+- Created change request template for handling rule or process updates
+- Defined escalation rules for repeated quality issues
+- No new annotation was run in the tool today
+- Focus was on monitoring, quality control, and change handling
+- Assumed manual QA is sufficient for toy project
+- All monitoring documents added to GitHub
+
+
+
 
