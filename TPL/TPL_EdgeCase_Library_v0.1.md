@@ -26,5 +26,5 @@ Edge Case 3: Average experience
 Handling:
     - Mark as Neutral unless strong positive or negative words are used.
 
-## General Rule
-If the sentiment is confusing or unclear, choose Neutral and move forward.
+General Rule:
+    -If the sentiment is confusing or unclear, choose Neutral and move forward.
