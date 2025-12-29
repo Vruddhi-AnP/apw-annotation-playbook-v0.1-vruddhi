@@ -22,3 +22,16 @@ Day 2 – Planning
 - Assumed single-annotator workflow for this project
 
 
+Day 3 – Execution
+
+- Created batch plan to divide annotation work into smaller units
+- Defined step-by-step annotation execution flow in SOP
+- Added batch release checklist before starting annotation
+- Execution logic documented based on toy project experience
+- No new annotation was run in the tool today
+- Focus was on defining repeatable execution process
+- Assumed single annotator and no separate review stage
+- All execution documents added to GitHub
+
+
+
