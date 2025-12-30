@@ -46,5 +46,17 @@ Day 4 – Monitoring & Control
 - All monitoring documents added to GitHub
 
 
+Day 5 – Closure
+
+- Exported final annotated data from Label Studio
+- Added acceptance signoff and project retrospective templates
+- Completed delivery and closure gate checklists
+- Uploaded final export and closure evidence
+- Project documentation finalized and archived
+- No further annotation work planned
+- All required deliverables completed as per guidelines
+- Project formally closed
+
+
 
 
