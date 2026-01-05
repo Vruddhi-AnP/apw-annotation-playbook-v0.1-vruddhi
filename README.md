@@ -8,8 +8,6 @@ Day 1 :  Initiation
 - Faced task queue issue while labeling and fixed it
 - Exported annotation output
 
-
-
 Day 2 – Planning
 
 - Created label specification for text sentiment annotation
@@ -20,7 +18,6 @@ Day 2 – Planning
 - No tool changes were required today
 - All planning work was documented in GitHub
 - Assumed single-annotator workflow for this project
-
 
 Day 3 – Execution
 
@@ -33,7 +30,6 @@ Day 3 – Execution
 - Assumed single annotator and no separate review stage
 - All execution documents added to GitHub
 
-
 Day 4 – Monitoring & Control
 
 - Created SOP for manual QA checks on annotated batches
@@ -45,7 +41,6 @@ Day 4 – Monitoring & Control
 - Assumed manual QA is sufficient for toy project
 - All monitoring documents added to GitHub
 
-
 Day 5 – Closure
 
 - Exported final annotated data from Label Studio
@@ -56,6 +51,29 @@ Day 5 – Closure
 - No further annotation work planned
 - All required deliverables completed as per guidelines
 - Project formally closed
+
+---   ---  ---
+
+---
+
+Day 1 – Label Studio Execution (Support Routing)
+
+- Tool used: Label Studio (local)
+- Project created: Support-Routing-60
+- Dataset: support_messages.csv (60 tasks)
+- Labels configured:
+  - refund_request
+  - order_status
+  - product_issue
+  - account_access
+  - spam_other
+- Annotated 15 sample tasks end-to-end
+- Verified submit flow and task completion status
+- Exported annotations as JSON for evidence
+- Evidence added under EVID/DayX_LabelStudio
+- Assumption: Single-label routing per ticket
+- Decision: Annotated subset (15) sufficient to validate workflow
+
 
 
 
