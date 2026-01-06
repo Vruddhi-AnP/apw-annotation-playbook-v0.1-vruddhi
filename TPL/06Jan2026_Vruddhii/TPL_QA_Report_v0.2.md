@@ -1,5 +1,0 @@
-- Total tasks: 60
-- Labeled: 60
-- Self-review done on: 15 samples
-- Corrections made: 0–2 (approx)
-- Major error types: None
