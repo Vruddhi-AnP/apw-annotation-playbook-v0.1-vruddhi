@@ -1,0 +1,5 @@
+- Dataset: Support-Routing-60
+- Total records: 60
+- Labels: refund_request, order_status, product_issue, account_access, spam_other
+- Entities: order_id, phone, email
+- Output file: pred_text.csv
