@@ -75,6 +75,22 @@ Day 1 – Label Studio Execution (Support Routing)
 - Decision: Annotated subset (15) sufficient to validate workflow
 
 
+Day 2 – Completion, QA & Delivery (Support Routing)
+
+- Completed annotation for remaining messages (total 60/60 labeled)
+- Performed self-review on 15 messages (25% sample)
+- Identified and corrected minor labeling issues during review
+- Exported final annotations from Label Studio
+- Created clean CSV output (pred_text.csv) with required schema
+- Prepared QA report and defect log templates
+- Compiled final delivery pack under DELIVERY_PACK/Support-Routing-60
+- Evidence screenshots and exports finalized under EVID/06Jan2026_Vruddhi
+
+Assumption: Entity fields are populated only when explicitly present in text
+Outcome: Dataset ready for downstream routing model usage
+
+
+
 
 
 
